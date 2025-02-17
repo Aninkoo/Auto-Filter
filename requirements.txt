@@ -1,4 +1,5 @@
-git+https://github.com/KurimuzonAkuma/pyrogram
+//git+https://github.com/KurimuzonAkuma/pyrogram
+pyrogram>=2.0.30
 tgcrypto
 pymongo[srv]>=3.12.3
 motor>=3.6
