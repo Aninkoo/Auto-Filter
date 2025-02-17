@@ -1,4 +1,4 @@
-FROM python:3.13.2
+FROM python:3.8-slim-buster
 
 WORKDIR /Auto-Filter-Bot
 
